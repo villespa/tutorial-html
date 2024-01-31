@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: "Rajdhani";
+  src:  url(fonts/Rajdhani-Light.ttf);
+}
+
+@font-face {
+  font-family: "RubikGlitchPop";
+  src: url('fonts/RubikGlitchPop-Regular.ttf');
+} 
+
+@font-face {
+  font-family: "PissJar";
+  src: url('fonts/Pissjar-Sans.ttf');
+} 
+
+
+body {
+  background-color:#ECE6DA;
+}
+
+
+h1 {
+  font-family: PissJar;
+  font-weight: 50;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  margin-left: 5px;
+}
+
+p {
+  color: black;
+}
